@@ -64,6 +64,7 @@
 //                                      by pairs that are given to everyone (from house). If someone bets a high amount
 //                                      AI behavior should be altered as well
 // DVM                  3/22/22         When an AI runs out of money, I started a process that removes them entirely
+// DVM                  5/11/22         Uploaded to Github
 
 package com.company;
 
